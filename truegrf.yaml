@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f19d4434
 license: GPL-2.0
+name: testing2-electric-boogaloo
 type: industry
+url: https://github.com/N-Moe/testing2-electric-boogaloo
 version: 6
