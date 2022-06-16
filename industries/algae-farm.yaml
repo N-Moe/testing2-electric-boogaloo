@@ -146,7 +146,7 @@ callbacks: |
 cargoAcceptance:
 - FMSP
 cargoProduction:
-- FOOD
+- ALGE
 colour: 85
 fundCostMultiplier: 49
 id: 14
