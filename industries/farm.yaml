@@ -43,7 +43,7 @@ callbacks: |
   supply_requirement 8 =
 
   accept_cargo_types ctt:FMSP [] 1 =
-  prod_cargo_types ctt:FOOD [] 14 =
+  prod_cargo_types ctt:ALGE [] 14 =
 
 
   /*
