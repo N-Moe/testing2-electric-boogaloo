@@ -113,7 +113,7 @@ colour: 141
 fundCostMultiplier: 145
 id: 0
 layout:
-- - - 0
+- - - 3
     - 0
     - 0
     - 5
@@ -130,12 +130,12 @@ layout:
     - 6
   - - 3
     - 2
-    - 3
+    - 4
     - 6
     - 9
   - - 7
     - 8
-    - 7
+    - 4
     - 8
     - 9
 name: Assembly Plant
