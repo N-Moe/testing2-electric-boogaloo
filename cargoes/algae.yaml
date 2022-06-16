@@ -1,0 +1,17 @@
+abbreviation: AL
+available: false
+classes: 528
+colour: 28
+id: 5
+label: ALGE
+longName: algae
+name: Algae
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/algae.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16
